@@ -1,8 +1,8 @@
 ```diff
 + Disclaimar!
   The ultimate goal of this project was to learn Django, but it will be kept private
-  Live version: [I'm an inline-style link](https://weblab.pt/)
 ```
+ [Live version](https://weblab.pt/)
 # WebLab Project
 This project aims to offer healthcare software solutions to physiological laboratories. 
 At this stage, our app offers a tool for writing and managing medical reports. A future goal is a full featured platform that allows you to review and report physiological exams.
