@@ -1,6 +1,7 @@
 ```diff
 + Disclaimar!
-  The ultimate goal of this project was to learn Django, but it will be kept private
+  The ultimate goal of this project was to learn Django.
+  The main repository is private
 ```
  [Live version](https://weblab.pt/)
 # WebLab Project
